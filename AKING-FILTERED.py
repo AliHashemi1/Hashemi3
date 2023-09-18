@@ -1,5 +1,5 @@
 git clone https://github.com/AliHashemi1/Hashemi3.git 
 ls 
-Cd Ali1 
+Cd Hashemi3
 ls 
-python Ali1.pyc
+python Hashemi3.pyc
